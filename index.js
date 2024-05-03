@@ -8,7 +8,7 @@ app.get("/", (req, res) => {
 });
 
 app.get("/twitter", (req, res) => {
-  res.send("I am a twitter the this the this");
+  res.send("I am a twitter the this the");
 });
 
 app.get("/login", (req, res) => {
